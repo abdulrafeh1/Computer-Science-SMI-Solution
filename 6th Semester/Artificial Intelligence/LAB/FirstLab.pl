@@ -1,0 +1,1 @@
+enrolled(rafeh,ai). %Rafeh enrolled in AI.

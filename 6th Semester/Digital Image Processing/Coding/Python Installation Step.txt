@@ -1,0 +1,6 @@
+conda install python
+conda install numpy
+pip - install opencv
+conda install matplotlib
+conda install pandas
+conda install jupyter
